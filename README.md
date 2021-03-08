@@ -4,3 +4,4 @@
 - npm init @vitejs/app [项目名字 project-name] --template vue-ts
 - or 
 - yarn create @vitejs/app [项目名字 project-name] --template vue-ts
+- by baiyang test
